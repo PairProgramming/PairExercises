@@ -1,0 +1,1 @@
+require 'pairexercises/stack'
