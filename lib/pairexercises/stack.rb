@@ -1,4 +1,4 @@
-module pairexercises
-  class stack
-   end
+module PairExercises
+  class Stack
+  end
 end
